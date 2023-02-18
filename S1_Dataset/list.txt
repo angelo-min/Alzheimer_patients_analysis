@@ -1,0 +1,33 @@
+column 1: time (s)
+column 2: acc_frontal
+column 3: acc_vertical
+column 4: acc_lateral
+column 5: antenna
+column 6: rssi
+column 7: wispid
+column 8: phase
+column 9: frequency
+
+p01 F
+p02 F
+p03 F
+p04 M
+p05 M
+p06 F
+p07 F
+p08 F
+p09 F
+p10 F
+p11 M
+p12 M
+p13 M
+p14 F
+p15 F
+p16 M
+p17 F
+p18 F
+p19 F
+p20 F
+p21 M
+p22 F
+p23 M
